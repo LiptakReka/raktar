@@ -1,0 +1,6 @@
+@Raktarkezelo_HostAddress = http://localhost:5184
+
+GET {{Raktarkezelo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

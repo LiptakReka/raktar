@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\Raktarkezelo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B16219A-4E42-4075-864F-AD630BC4BD31}|Raktarkezelo\\Raktarkezelo.csproj|c:\\users\\pc\\source\\repos\\raktarkezelo\\raktarkezelo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B16219A-4E42-4075-864F-AD630BC4BD31}|Raktarkezelo\\Raktarkezelo.csproj|solutionrelative:raktarkezelo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B16219A-4E42-4075-864F-AD630BC4BD31}|Raktarkezelo\\Raktarkezelo.csproj|c:\\users\\pc\\source\\repos\\raktarkezelo\\raktarkezelo\\migrations\\20250309175404_keszites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B16219A-4E42-4075-864F-AD630BC4BD31}|Raktarkezelo\\Raktarkezelo.csproj|solutionrelative:raktarkezelo\\migrations\\20250309175404_keszites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B16219A-4E42-4075-864F-AD630BC4BD31}|Raktarkezelo\\Raktarkezelo.csproj|c:\\users\\pc\\source\\repos\\raktarkezelo\\raktarkezelo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B16219A-4E42-4075-864F-AD630BC4BD31}|Raktarkezelo\\Raktarkezelo.csproj|solutionrelative:raktarkezelo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B16219A-4E42-4075-864F-AD630BC4BD31}|Raktarkezelo\\Raktarkezelo.csproj|c:\\users\\pc\\source\\repos\\raktarkezelo\\raktarkezelo\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B16219A-4E42-4075-864F-AD630BC4BD31}|Raktarkezelo\\Raktarkezelo.csproj|solutionrelative:raktarkezelo\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B16219A-4E42-4075-864F-AD630BC4BD31}|Raktarkezelo\\Raktarkezelo.csproj|c:\\users\\pc\\source\\repos\\raktarkezelo\\raktarkezelo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B16219A-4E42-4075-864F-AD630BC4BD31}|Raktarkezelo\\Raktarkezelo.csproj|solutionrelative:raktarkezelo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B16219A-4E42-4075-864F-AD630BC4BD31}|Raktarkezelo\\Raktarkezelo.csproj|c:\\users\\pc\\source\\repos\\raktarkezelo\\raktarkezelo\\data\\raktardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B16219A-4E42-4075-864F-AD630BC4BD31}|Raktarkezelo\\Raktarkezelo.csproj|solutionrelative:raktarkezelo\\data\\raktardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B16219A-4E42-4075-864F-AD630BC4BD31}|Raktarkezelo\\Raktarkezelo.csproj|c:\\users\\pc\\source\\repos\\raktarkezelo\\raktarkezelo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B16219A-4E42-4075-864F-AD630BC4BD31}|Raktarkezelo\\Raktarkezelo.csproj|solutionrelative:raktarkezelo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B16219A-4E42-4075-864F-AD630BC4BD31}|Raktarkezelo\\Raktarkezelo.csproj|c:\\users\\pc\\source\\repos\\raktarkezelo\\raktarkezelo\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B16219A-4E42-4075-864F-AD630BC4BD31}|Raktarkezelo\\Raktarkezelo.csproj|solutionrelative:raktarkezelo\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Raktarkezelo\\Raktarkezelo\\appsettings.json",
+              "RelativeDocumentMoniker": "Raktarkezelo\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Raktarkezelo\\Raktarkezelo\\appsettings.json",
+              "RelativeToolTip": "Raktarkezelo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-09T17:51:19.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "suppliersController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Raktarkezelo\\Raktarkezelo\\Controllers\\suppliersController.cs",
+              "RelativeDocumentMoniker": "Raktarkezelo\\Controllers\\suppliersController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Raktarkezelo\\Raktarkezelo\\Controllers\\suppliersController.cs",
+              "RelativeToolTip": "Raktarkezelo\\Controllers\\suppliersController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwFIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:48:46.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Raktarkezelo\\Raktarkezelo\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Raktarkezelo\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Raktarkezelo\\Raktarkezelo\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "Raktarkezelo\\Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwFEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:43:36.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250309175404_keszites.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Raktarkezelo\\Raktarkezelo\\Migrations\\20250309175404_keszites.cs",
+              "RelativeDocumentMoniker": "Raktarkezelo\\Migrations\\20250309175404_keszites.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Raktarkezelo\\Raktarkezelo\\Migrations\\20250309175404_keszites.cs",
+              "RelativeToolTip": "Raktarkezelo\\Migrations\\20250309175404_keszites.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:54:05.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Raktarkezelo\\Raktarkezelo\\Program.cs",
+              "RelativeDocumentMoniker": "Raktarkezelo\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Raktarkezelo\\Raktarkezelo\\Program.cs",
+              "RelativeToolTip": "Raktarkezelo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:40:16.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RaktarDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Raktarkezelo\\Raktarkezelo\\data\\RaktarDBContext.cs",
+              "RelativeDocumentMoniker": "Raktarkezelo\\data\\RaktarDBContext.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Raktarkezelo\\Raktarkezelo\\data\\RaktarDBContext.cs",
+              "RelativeToolTip": "Raktarkezelo\\data\\RaktarDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:33:29.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "supplier.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Raktarkezelo\\Raktarkezelo\\Models\\supplier.cs",
+              "RelativeDocumentMoniker": "Raktarkezelo\\Models\\supplier.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Raktarkezelo\\Raktarkezelo\\Models\\supplier.cs",
+              "RelativeToolTip": "Raktarkezelo\\Models\\supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:32:11.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Raktarkezelo\\Raktarkezelo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Raktarkezelo\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Raktarkezelo\\Raktarkezelo\\Models\\Product.cs",
+              "RelativeToolTip": "Raktarkezelo\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:31:48.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
